@@ -19,18 +19,11 @@ car_model = ["Prius", "Model S"]
 
 p two_arguments(car_maker, car_model)
 
-def print_100(x)
-	if x/3 === fixnum 
-		p "Fizz"
-	elsif x/5 === fixnum
-		p "Buzz"
-	elsif x/3 && x/5 === fixnum	
-		p "FizzBuzz"
-	else
- 		p (x)
-end	
+#below is unfinished
 
-counter=0
+def print_100(x)
+
+counter=1
 while counter < 101
 	p print_100(1)
 counter= counter + 1
